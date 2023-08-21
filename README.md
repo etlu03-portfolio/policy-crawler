@@ -28,4 +28,4 @@ Once all dependencies have been installed, you can dispatch a web crawler by run
 # Reference
 | Screenshot of a Google Play Store app |
 | ------------------------------------- |
-| <img src="./docs/example.png"         |
+| <img src="./docs/example.png">        |
