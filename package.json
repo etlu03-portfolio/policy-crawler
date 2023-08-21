@@ -1,0 +1,18 @@
+{
+  "name": "policy-spider",
+  "version": "1.0.0",
+  "description": "App developer privacy policy scraper for the Google Play Store",
+  "scripts": {
+    "lint": "npx eslint --fix .",
+    "format": "npx prettier --write ."
+  },
+  "dependencies": {
+    "puppeteer": "^19.7.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.2"
+  }
+}
