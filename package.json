@@ -14,5 +14,14 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.0",
     "prettier": "^3.0.2"
-  }
+  },
+  "main": "./crawler.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etlu03-portfolio/policy-spider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/etlu03-portfolio/policy-spider/issues"
+  },
+  "homepage": "https://github.com/etlu03-portfolio/policy-spider#readme"
 }
